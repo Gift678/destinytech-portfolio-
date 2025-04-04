@@ -1,4 +1,3 @@
-
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Download, GraduationCap } from "lucide-react";
@@ -16,7 +15,7 @@ const EducationSection = () => {
                 <GraduationCap className="h-6 w-6" />
               </div>
               <h3 className="text-2xl font-semibold mb-2">Computer Science</h3>
-              <p className="text-primary font-medium mb-2">University of Nairobi</p>
+              <p className="text-primary font-medium mb-2">Muranga University Of Technology</p>
               <p className="text-muted-foreground mb-4">2020 - 2024</p>
               <p className="text-muted-foreground">
                 Pursued comprehensive studies in computer science fundamentals, algorithms, 
