@@ -1,6 +1,6 @@
 
 import { useTheme } from "@/contexts/ThemeContext";
-import { Moon, Sun } from "lucide-react";
+import { Moon, Sun, Palette } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const ThemeToggle = () => {
@@ -13,7 +13,9 @@ const ThemeToggle = () => {
       size="icon" 
       className="fixed bottom-4 right-4 rounded-full h-10 w-10 shadow-lg z-50"
     >
-      {theme === 'theme-green' ? (
+      {theme === 'theme-bw' ? (
+        <Palette className="h-5 w-5 text-primary" />
+      ) : theme === 'theme-green' ? (
         <Moon className="h-5 w-5 text-primary" />
       ) : (
         <Sun className="h-5 w-5 text-primary" />

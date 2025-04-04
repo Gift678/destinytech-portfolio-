@@ -40,10 +40,15 @@ const Navigation = () => {
       )}
     >
       <nav className="container mx-auto flex items-center justify-between">
-        <div className="flex items-center">
+        <div className="flex flex-col items-start">
           <a href="#hero" className="text-2xl font-bold text-primary">
             Destiny<span className="text-foreground">TECH</span>
           </a>
+          <img 
+            src="/lovable-uploads/bbc167d0-80db-4dbb-a9ac-963ff77e7088.png" 
+            alt="DestinyTECH Logo" 
+            className="h-16 mt-1"
+          />
         </div>
 
         {/* Desktop Navigation */}
