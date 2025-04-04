@@ -66,8 +66,7 @@ This portfolio is built using:
 - **Email:** [giftmwangi39@gmail.com](mailto:giftmwangi39@gmail.com)
 - **Phone:** +254 715 451 892
 - **GitHub:** Gift678
-- **LinkedIn:** [Gift Destiny](https://linkedin.com/in/your-profile)
-- **Twitter:** [@DestinyTECH](https://twitter.com/your-profile)
 
+-
 
 
